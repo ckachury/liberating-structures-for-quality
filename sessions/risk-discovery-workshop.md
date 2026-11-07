@@ -4,7 +4,7 @@
 
 **Participants:** 6 to 10 people mixing product, development, QA, support or customer success, and someone close to the business.
 
-**Output:** a risk matrix with the top risks, an owner for each, and quick actions for the next sprint. It feeds the [risk-first matrix](https://github.com/ckachury/lean-quality-framework/blob/main/templates/risk-matrix.md) or the [AI risk register](https://github.com/ckachury/ai-quality-governance/blob/main/templates/risk-register.md).
+**Output:** a risk matrix with the top risks, an owner for each, and quick actions for the next sprint. It feeds the [risk-first matrix](https://github.com/ckachury/lean-quality-framework/blob/HEAD/templates/risk-matrix.md) or the [AI risk register](https://github.com/ckachury/ai-quality-governance/blob/HEAD/templates/risk-register.md).
 
 | Minutes | Activity | Structure |
 |---|---|---|
