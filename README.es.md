@@ -2,7 +2,7 @@
 
 # Liberating Structures for Quality
 
-**Diseños de facilitación que suman la voz de todas las personas al trabajo de calidad: assessments de madurez, levantamiento de riesgos y retrospectivas.**
+**Diseño y facilitación de instancias de trabajo para mejorar procesos de calidad que involucran a todos los stakeholders por igual: assessments de madurez, levantamiento de riesgos y retrospectivas.**
 
 ![Facilitación](https://img.shields.io/badge/FACILITACIÓN-Estructuras%20Liberadoras-0f4c4a?style=flat-square)
 ![Uso](https://img.shields.io/badge/USO-assessments%20·%20riesgos%20·%20retros-d9573a?style=flat-square)
@@ -18,7 +18,7 @@
 
 Gran parte de lo que una organización sabe sobre sus problemas de calidad está en personas que rara vez hablan en las reuniones: testers, agentes de soporte, desarrolladores junior. Las reuniones convencionales (una presentación y luego "¿preguntas?") dejan que unas pocas voces dominen y producen respuestas educadas e incompletas.
 
-Las [Estructuras Liberadoras](https://www.liberatingstructures.com/) son un repertorio de 43 patrones simples de interacción que distribuyen la participación: cada persona piensa primero sola, luego en pareja, luego en grupo. Las uso porque producen **mejor evidencia**: concreta, de muchos roles y levantada de forma segura.
+Las [Estructuras Liberadoras](https://www.liberatingstructures.com/) son un repertorio de actividades simples de interacción que distribuyen la participación: cada persona piensa primero sola, luego en pareja, luego en grupo. Las uso porque producen **mejor evidencia**: concreta, de muchos roles y levantada de forma segura.
 
 ## Qué estructura para qué pregunta
 
@@ -41,7 +41,7 @@ Las [Estructuras Liberadoras](https://www.liberatingstructures.com/) son un repe
 |---|---|
 | [Workshops de assessment del proceso de pruebas](sessions/test-process-assessment-workshops.md) | Cuatro workshops de 60 minutos que levantan evidencia para un assessment TMMi o TPI NEXT: business drivers, relación con stakeholders, gestión de pruebas y oficio de probar |
 | [Workshop de levantamiento de riesgos](sessions/risk-discovery-workshop.md) | Construir un mapa de riesgos del producto con producto, desarrollo, QA y soporte |
-| [Retrospectiva de calidad](sessions/quality-retrospective.md) | Mirar un release o un incidente sin buscar culpables |
+| [Retrospectiva de calidad](sessions/quality-retrospective.md) | Mirar qué pudo salir mejor en un release o un incidente, generando accionables, sin buscar culpables |
 
 Los diseños detallados están en inglés; este README resume su contenido.
 
